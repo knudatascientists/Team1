@@ -6,7 +6,7 @@
 - 회의록 : https://kaput-macaw-8a1.notion.site/a73d006b0294447d8c74b428b8c64d3e?v=3d47df52abca4a58be9ce770955f2ad6  
 - 참고 : https://kaput-macaw-8a1.notion.site/45cf3e448cb34736923006bbf34988aa  
     
-- https://www.notion.so/1-2445136233d84b6ba927e9e5d9bbafab (멤버 전용)  
+- (멤버 전용) : https://www.notion.so/1-2445136233d84b6ba927e9e5d9bbafab   
   
 **GDrive** :  
 - https://drive.google.com/drive/u/0/folders/1-dtKFqXJqOMxqMU4fLUuz5HD3Wh2nXUu
